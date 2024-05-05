@@ -5,7 +5,7 @@ import asyncio  # Import asyncio module for sleep function
 import aiohttp
 
 # Load the JSON file
-with open("free-stuff.json", encoding="utf-8") as f:
+with open("exported-channel.json", encoding="utf-8") as f:
     data = json.load(f)
 
 # Create a discord client
