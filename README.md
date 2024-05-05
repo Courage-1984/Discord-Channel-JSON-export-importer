@@ -72,7 +72,7 @@ OR:
 13. Add your bot/application to your chosen server.
 14. Click Continue
 15. Now in the terminal that's in the directory which has your `send_messages.py` script run the following to excecute the script/bot:
-16. 
+
 ```sh
   python send_messages.py
 ```
